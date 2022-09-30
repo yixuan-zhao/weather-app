@@ -9,12 +9,12 @@ h1 {
   line-height: 28px;
   margin: 0;
 }
-ul{
+ul {
   margin: 0 0 10px;
   padding: 0;
 }
 
-li{
+li {
   display: block;
   list-style: none;
   color: #7c7c7c;
@@ -24,7 +24,7 @@ li{
   font-weight: 100;
 }
 
-.weather-app{
+.weather-app {
   margin: 20px auto;
   max-width: 600px;
   border: 1px solid #dadde1;
@@ -36,13 +36,17 @@ li{
   margin-bottom: 20px;
 }
 
-.temp{
+.temp {
   color: rgb(33, 33, 33);
   font-size: 64px;
   font-weight: 400;
   line-height: 1;
 }
-.units{
+.units {
   position: relative;
   top: -34px;
+}
+
+.current-city {
+  background-color: #28a745;
 }
