@@ -47,6 +47,12 @@ li {
   top: -34px;
 }
 
-.current-city {
+.current-btn {
   background-color: #28a745;
+}
+
+.info {
+  margin: 20px auto;
+  max-width: 600px;
+  font-size: 15px;
 }
